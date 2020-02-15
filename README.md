@@ -30,4 +30,4 @@
 QQ：9866181（申请入群关键字"github跨境电商ERP"）<br/>
 或者扫描下面二维码，加我微信：
 
-![](shop/weixin.png)
+<img src="shop/weixin.png" />
