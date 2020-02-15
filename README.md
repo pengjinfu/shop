@@ -1,5 +1,5 @@
-# 跨境电商ERP、跨境电商erp,亚马逊erp，对接亚马逊、wish、ebay、速卖通、shopify、shopee虾皮、lazada等跨境电商平台。
-跨境电商ERP，跨境电商erp系统：<br/>
+# 跨境电商ERP、跨境电商erp,
+跨境电商ERP，跨境电商erp系统：亚马逊erp，对接亚马逊、wish、ebay、速卖通、shopify、shopee虾皮、lazada等跨境电商平台。<br/>
 ## 1、架构：
 后端使用spring boot2.0 + 前端vue.js架构。使用的技术栈：shiro权限认证、maven模块化管理、quartz定时任务、logback日志、alibaba druid主备数据库连接多数据源配置、thymeleaf模板引擎、i18n国际化、jackson json数据处理、devtools热处理、mybatis数据层持久化层、pagehelper mybatis分页、一级缓存ehcache缓存二级缓存redis缓存、apache POI处理excel等offic办公软件、Velocity模板根据表自动生成controller、service、mapper、mapper xml、后台html代码便于快速开发。<br/>
 后台管理界面：bootstrap、layui、bootstrap-table、bootstrap-treegrid、bootstrap-datetimepicker、bootstrap、summernote富文本编辑器、fontawesome字体、select2下拉框组件。<br/>
