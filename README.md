@@ -43,4 +43,4 @@ QQ：9866181（申请备注"github跨境电商ERP"）<br/>
 微信：9866181（申请备注"github跨境电商ERP"）<br/>
 或者扫描下面二维码，加我微信：
 
-<img src="shop/weixin.png" />
+<img src="shop/weixin.png" /><img src="shop/weixin2.png" />
