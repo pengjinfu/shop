@@ -18,6 +18,7 @@
 已开发完认证接口、产品listing刊登变体上传、订单同步、订单发货等功能。<br/>
 ## 8、shopee接口对接：
 已开认证接口、发产品信息、变体信息刊登、在线商品同步、订单同步、订单发货等信息。<br/>
+针对亚马逊MWS漏桶算法的频率限制，已使用解决方案完美处理。
 ## 9、shopify接口。
 独立站
 亚马逊ERP、wishERP、ebayERP、速卖通ERP、shopifyERP、shopeeERP、虾皮ERP、lazadaERP
