@@ -20,6 +20,7 @@
 已开认证接口、发产品信息、变体信息刊登、在线商品同步、订单同步、订单发货等信息。<br/>
 ## 9、shopify接口。
 独立站
+亚马逊ERP、wishERP、ebayERP、速卖通ERP、shopifyERP、shopeeERP、虾皮ERP、lazadaERP
 ## 开发环境
 统一使用STS版本作为开发工具，JDK使用1.8，Maven使用3.2;
 ## 演示效果图
